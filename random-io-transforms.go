@@ -10,7 +10,6 @@ import (
 	"time"
 )
 
-type Counter map[string]int
 
 var count map[string]int
 
